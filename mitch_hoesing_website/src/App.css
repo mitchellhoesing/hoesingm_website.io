@@ -32,9 +32,10 @@ body{
 nav{
   padding: 60px 30px 0px 30px;
   flex:var(--sidebar-flex);
-  background:rgb(238,102,143);
-  background: linear-gradient(180deg, rgba(238,103,143,1) 50%, 
-  rgba(132,124,252,1) 80%);
+  /*flex-direction: row;*/
+  background:rgb(81, 117, 218);
+  background: linear-gradient(180deg, rgb(95, 202, 245) 50%, 
+  rgb(32, 85, 185) 70%);
 }
 
 nav ul {
@@ -53,3 +54,48 @@ nav ul li {
   font-weight: bolder;
 }
 
+.social {
+  position: absolute;
+  margin-top: 20px;
+  display: flex;
+  bottom: 60px;
+}
+.social i {
+  padding-right: 30px;
+  font-size: 25px;
+  color: #9a9b9c;
+}
+.social i:hover {
+  color: #ffffff;
+}
+
+.subtopic {
+  margin: 10px 10px 30px 10px !important;
+}
+
+p{
+  font-size:var(--fontsize-p);
+}
+
+h1,h2,h3,h4,p {
+  margin: 10px;
+}
+
+.widecard{
+  border:0px solid #9a9b9c;
+  display: flex;
+  margin: 30px 0px 30px 30px;
+}
+
+.widecard:hover {
+  color: #1b1d20;
+  background-color: #ffffff;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.credits{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  font-size:85%;
+}
