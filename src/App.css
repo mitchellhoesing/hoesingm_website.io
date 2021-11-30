@@ -34,8 +34,9 @@ nav{
   flex:var(--sidebar-flex);
   /*flex-direction: row;*/
   background:rgb(81, 117, 218);
-  background: linear-gradient(180deg, rgb(95, 202, 245) 50%, 
-  rgb(32, 85, 185) 70%);
+  background:rgb(95, 202, 245);
+  /*linear-gradient(180deg, rgb(95, 202, 245) 70%,
+  rgb(76, 255, 199) 90%);*/
 }
 
 nav ul {

@@ -4,8 +4,8 @@ class Skills extends Component {
     constructor(props) {
         super(props);
         this.state={
-            'myskills':['Python','Unity','C#','React','Bash','PowerShell','TensorFlow','Active Directory','Windows','Linux','OSX','Microsoft Office','Calculus','Physics','Statistics',
-                        'Written and Oral Communication','Team Work','Self Directed','Work Ethic']
+            'myskills':['Python','Unity','React','Bash','PowerShell','Active Directory','Windows','Linux','OSX','Microsoft Office','Calculus','Physics','Statistics',
+                        'Written and Oral Communication','Team Work','Self Direction','Work Ethic']
         };
     }
     render() {
