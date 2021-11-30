@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/hoesingm_website.io/static/css/main.c8468573.chunk.css",
-    "main.js": "/hoesingm_website.io/static/js/main.11346e2b.chunk.js",
-    "main.js.map": "/hoesingm_website.io/static/js/main.11346e2b.chunk.js.map",
+    "main.css": "/hoesingm_website.io/static/css/main.a2cf6672.chunk.css",
+    "main.js": "/hoesingm_website.io/static/js/main.f0ac2f75.chunk.js",
+    "main.js.map": "/hoesingm_website.io/static/js/main.f0ac2f75.chunk.js.map",
     "runtime-main.js": "/hoesingm_website.io/static/js/runtime-main.d3f18456.js",
     "runtime-main.js.map": "/hoesingm_website.io/static/js/runtime-main.d3f18456.js.map",
     "static/js/2.bd0dd2f3.chunk.js": "/hoesingm_website.io/static/js/2.bd0dd2f3.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.27c6fd24.chunk.js": "/hoesingm_website.io/static/js/3.27c6fd24.chunk.js",
     "static/js/3.27c6fd24.chunk.js.map": "/hoesingm_website.io/static/js/3.27c6fd24.chunk.js.map",
     "index.html": "/hoesingm_website.io/index.html",
-    "static/css/main.c8468573.chunk.css.map": "/hoesingm_website.io/static/css/main.c8468573.chunk.css.map",
+    "static/css/main.a2cf6672.chunk.css.map": "/hoesingm_website.io/static/css/main.a2cf6672.chunk.css.map",
     "static/js/2.bd0dd2f3.chunk.js.LICENSE.txt": "/hoesingm_website.io/static/js/2.bd0dd2f3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d3f18456.js",
     "static/js/2.bd0dd2f3.chunk.js",
-    "static/css/main.c8468573.chunk.css",
-    "static/js/main.11346e2b.chunk.js"
+    "static/css/main.a2cf6672.chunk.css",
+    "static/js/main.f0ac2f75.chunk.js"
   ]
 }
