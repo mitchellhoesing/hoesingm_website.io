@@ -12,7 +12,7 @@ import Projects from './contents/Projects';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/hoesingm_website.io">
       <div className="App">
         <NavBar></NavBar>
 
