@@ -12,7 +12,8 @@ class About extends Component {
 
                     <br /><br />
 
-                   My hobbies include disc golfing, programming, running & weight lifting, reading, video gaming, garage sales, cooking, meditating, photography, art, biking and fishing.
+                   I am an enjoyer of disc golfing, studying, programming, running, weight-lifting, cycling, reading,
+                   cooking, meditation, photography, art and fishing.
                    I am open to other hobbies as well as I enjoy diving into new subjects and learning.
                 </p>
             </div>
